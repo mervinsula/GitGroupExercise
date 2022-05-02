@@ -1,6 +1,7 @@
 # GitGroupExercise
 II.	Group: Simulation/workshop activity for Git & GitHub Desktop.
 o	Instructions (General): Trainees will be divided into groups (4 members). Each group will be given a Git repo. The group's objective is to debug and fix the functions in the main branch.
+
 o	Guide:
 1.	Each group will debug a simple program which calculates the area of 4 shapes (circle, triangle, square, and rectangle.) 
 2.	Each member will be assigned a function from the main program that they need to debug.
